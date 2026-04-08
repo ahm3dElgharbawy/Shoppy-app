@@ -98,7 +98,7 @@ lib/
 ### 1. Clone the repo
 
 ```id="r8c3lm"
-git clone https://github.com/your-username/products-app.git
+git clone https://github.com/ahm3dElgharbawy/Shoppy-app.git
 ```
 
 ### 2. Install dependencies
