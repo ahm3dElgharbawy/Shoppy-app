@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:flutter/material.dart';
 import 'package:shoppy/core/common/widgets/circle_container.dart';
 import 'package:shoppy/core/extensions/screen_size.dart';

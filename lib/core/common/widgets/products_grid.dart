@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:shoppy/core/common/models/product.dart';
 import 'package:shoppy/core/common/widgets/empty_products.dart';
-import 'package:shoppy/feature/products/presentation/widgets/product_card.dart';
+import 'package:shoppy/features/products/presentation/widgets/product_card.dart';
 
 class ProductsGrid extends StatelessWidget {
   const ProductsGrid({

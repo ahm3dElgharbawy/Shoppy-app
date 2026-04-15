@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:shoppy/core/di/injections.dart';
 import 'package:shoppy/core/theme/app_theme.dart';
-import 'package:shoppy/feature/splash_screen.dart';
+import 'package:shoppy/features/splash_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
